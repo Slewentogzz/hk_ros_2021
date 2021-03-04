@@ -1,9 +1,30 @@
 ---
-XY_pos: [0.756, 3.332]
+XY_pos: [-2.334, 1.618]
 obj_type: A
 ---
-XY_pos: [3.396, 0.123]
-obj_type: B
+XY_pos: [-2.982, 2.152]
+obj_type: C
 ---
-XY_pos: [6.001, 2.987]
+XY_pos: [-3.899, -0.811]
+obj_type: A
+---
+XY_pos: [-2.458, -0.635]
+obj_type: C
+---
+XY_pos: [-2.433, -2.317]
+obj_type: C
+---
+XY_pos: [-2.933, -0.332]
+obj_type: A
+---
+XY_pos: [3.782, -3.826]
+obj_type: A
+---
+XY_pos: [2.428, -1.936]
+obj_type: C
+---
+XY_pos: [3.482, -5.18]
+obj_type: A
+---
+XY_pos: [1.333, -3.331]
 obj_type: C

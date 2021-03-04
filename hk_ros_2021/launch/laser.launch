@@ -1,0 +1,10 @@
+<launch>
+    <node pkg="hk_ros_2021" type="geometry.py" name="geometry" output="screen">
+        
+    </node>
+
+    <node pkg="hk_ros_2021" type="output_generation_template.py" name="output_gen" output="screen">
+        
+    </node>
+
+</launch>
